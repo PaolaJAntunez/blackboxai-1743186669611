@@ -74,7 +74,7 @@ namespace Actividad_8
             MessageBox.Show(
                 "UNIVERSIDAD DE SAN PEDRO SULA - USAP\n" +
                 "PROGRAMACION 1 / DMV (1P-2025)\n" +
-                "ELABORADO POR KATHERINE QUINTANILLA (2240056)",
+                "ELABORADO POR PAOLA JACKELINE ANTUNEZ DUARTE (1220723)",
                 "Créditos del sistema",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information
